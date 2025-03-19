@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="UniversityManagmentApp/UniversityManagmentApp/Views/AuthView.axaml" value="UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj" />
+        <entry key="UniversityManagmentApp/UniversityManagmentApp/Views/MainWindow.axaml" value="UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

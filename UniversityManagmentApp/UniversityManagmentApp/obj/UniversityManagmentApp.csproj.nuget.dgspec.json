@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj": {}
+    "/Users/pavolocelka/Documents/Avalonia Development/AOOP/CodeJunkies-AOOP/UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj": {
+    "/Users/pavolocelka/Documents/Avalonia Development/AOOP/CodeJunkies-AOOP/UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj",
+        "projectUniqueName": "/Users/pavolocelka/Documents/Avalonia Development/AOOP/CodeJunkies-AOOP/UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj",
         "projectName": "UniversityManagmentApp",
-        "projectPath": "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj",
-        "packagesPath": "C:\\Users\\cunin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\obj\\",
+        "projectPath": "/Users/pavolocelka/Documents/Avalonia Development/AOOP/CodeJunkies-AOOP/UniversityManagmentApp/UniversityManagmentApp/UniversityManagmentApp.csproj",
+        "packagesPath": "/Users/pavolocelka/.nuget/packages/",
+        "outputPath": "/Users/pavolocelka/Documents/Avalonia Development/AOOP/CodeJunkies-AOOP/UniversityManagmentApp/UniversityManagmentApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cunin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/pavolocelka/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
