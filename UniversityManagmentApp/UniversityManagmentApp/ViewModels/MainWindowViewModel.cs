@@ -47,19 +47,25 @@ public partial class MainWindowViewModel : ViewModelBase
         IsPaneOpen = false;
     }
 
+//
     [RelayCommand]
     public void Login()
     {
+    
         if (CurrentView == _loginView)
+        
         {
-            if ()
-            {
-                NavigateToStudentView();
-            }
-            else if ()
+            NavigateToStudentView();
+            /*
+            if (Username == _teacher.Username && Password == _teacher.Password)
             {
                 NavigateToTeacherView();
             }
+            else if (Username == _student.Username && Password == _student.Password)
+            {
+                NavigateToStudentView();
+            } */
+            
         }
     }
     

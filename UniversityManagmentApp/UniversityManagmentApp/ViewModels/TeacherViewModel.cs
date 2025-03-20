@@ -5,5 +5,5 @@ namespace UniversityManagmentApp.ViewModels;
 
 public class TeacherViewModel : ViewModelBase
 {
-    public string Username { get; set; }
+
 }
