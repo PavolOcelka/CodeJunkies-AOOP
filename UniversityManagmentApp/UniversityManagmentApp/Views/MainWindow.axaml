@@ -9,12 +9,25 @@
         Icon="/Assets/avalonia-logo.ico"
         Title="UniversityManagmentApp">
 
-    <Design.DataContext>
-        <!-- This only sets the DataContext for the previewer in an IDE,
-             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
-        <vm:MainWindowViewModel/>
-    </Design.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="5*" />
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="Auto" />
+    </Grid.RowDefinitions>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        
+    
+    <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBox Watermark="Username" />
+        <TextBox Watermark="Password" />
+        <Button Content="Login" Command="{Binding NavigateToTeacherView}" />
+    </StackPanel>
 
+    <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <ContentControl Content="{Binding CurrentView}" />
+    </StackPanel>
+    </Grid>
 </Window>

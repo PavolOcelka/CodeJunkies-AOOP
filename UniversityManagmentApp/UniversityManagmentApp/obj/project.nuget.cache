@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKoQ2rARU1o=",
+  "dgSpecHash": "wnb11onpdKg=",
   "success": true,
-  "projectFilePath": "c:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj",
+  "projectFilePath": "C:\\Users\\cunin\\OneDrive\\Desktop\\School\\Semester 2\\AOOP\\CodeJunkies-AOOP\\UniversityManagmentApp\\UniversityManagmentApp\\UniversityManagmentApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cunin\\.nuget\\packages\\avalonia\\11.2.1\\avalonia.11.2.1.nupkg.sha512",
     "C:\\Users\\cunin\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
