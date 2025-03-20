@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UniversityManagmentApp", "UniversityManagmentApp", "{CEF63B3B-7DFC-1BB3-2B14-4D435A9C7CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManagmentApp", "UniversityManagmentApp\UniversityManagmentApp\UniversityManagmentApp.csproj", "{9B99C31D-99C1-37A9-264B-C5C62C631236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B99C31D-99C1-37A9-264B-C5C62C631236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B99C31D-99C1-37A9-264B-C5C62C631236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B99C31D-99C1-37A9-264B-C5C62C631236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B99C31D-99C1-37A9-264B-C5C62C631236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B99C31D-99C1-37A9-264B-C5C62C631236} = {CEF63B3B-7DFC-1BB3-2B14-4D435A9C7CCB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0163C087-0881-4A7D-B79B-8E775AE384AB}
+	EndGlobalSection
+EndGlobal
